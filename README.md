@@ -10,7 +10,7 @@ Marco Cruz-Sandoval1,2, Gonzalo Peraza-Mues1,3, Fernando Gómez-Zaldívar3, Robe
 ## Introduction
 This is a repository intended to reproduce the results presented in "Urban Dynamics in Mexico's Metropolitan Areas: Assessing Patterns, Trends and Drivers of Socio-spatial Segregation"
 
-## Installation and Software Requirmenets
+## Installation and Software Requirements
 The work has been done using R and Restudio. The packages that need to be installed are the following:
 
 <ul> <li>dplyr  </li></ul>
